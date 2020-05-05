@@ -1,4 +1,4 @@
-package com.example.chainOfReponsibility.approval;
+package com.example.chainOfResponsibility.approval;
 
 import com.example.chainOfResponsibility.approval.Approver;
 
