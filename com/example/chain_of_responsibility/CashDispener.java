@@ -1,13 +1,13 @@
 package com.example.chain_of_responsibility;
 
-public class CashDispener {
+public class CashDispenser {
   public int denominator;
-  private CashDispener nextDispenser=null;
-  public CashDispener(int val) {
+  private CashDispenser nextDispenser=null;
+  public CashDispenser(int val) {
     this.denominator = val;
   }
 
-  public void setNextDispenser(CashDispener next) {
+  public void setNextDispenser(CashDispenser next) {
     if(this.nextDispenser==null){
       this.nextDispenser = next;
       return;
