@@ -1,6 +1,4 @@
-package com.example.chainOfResponsibility.approval;
-
-import com.example.chainOfResponsibility.approval.ExpenseReport;
+package com.example.chain_of_responsibility.approval;
 
 public class Approver {
   private Approver nextApprover;

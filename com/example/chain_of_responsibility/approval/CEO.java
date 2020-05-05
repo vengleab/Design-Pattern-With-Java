@@ -1,6 +1,6 @@
-package com.example.chainOfResponsibility.approval;
+package com.example.chain_of_responsibility.approval;
 
-import com.example.chainOfResponsibility.approval.Approver;
+import com.example.chain_of_responsibility.approval.Approver;
 
 
 public class CEO extends Approver {

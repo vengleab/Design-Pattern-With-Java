@@ -1,4 +1,4 @@
-package com.example.chainOfResponsibility.approval;
+package com.example.chain_of_responsibility.approval;
 
 public class ExpenseReport {
   private int totalDollarAmount;

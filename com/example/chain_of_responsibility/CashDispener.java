@@ -1,4 +1,4 @@
-package com.example.chainOfResponsibility;
+package com.example.chain_of_responsibility;
 
 public class CashDispener {
   public int denominator;
